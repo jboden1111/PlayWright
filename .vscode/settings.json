@@ -1,2 +1,4 @@
 {
+  "playwright.testExplorer.testMatch": ["**/*.spec.ts", "**/*.test.ts"],
+  "playwright.testExplorer.enabled": true
 }
